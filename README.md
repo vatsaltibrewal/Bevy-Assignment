@@ -1,6 +1,10 @@
 # CodeScope - An Advanced GitHub Analyzer
 
-> An API-driven web application featuring a keyword-based repository search, a deep repository analyzer, and a GitHub profile analyzer, all wrapped in a sleek, neo-brutalist UI.
+An API-driven web application featuring a keyword-based repository search, a deep repository analyzer, and a GitHub profile analyzer, all wrapped in a sleek, neo-brutalist UI.
+
+Deployed URL: https://codescope-sage.vercel.app
+
+Deployed Backend: https://bevy-assignment.onrender.com
 
 ## Table of Contents
 
